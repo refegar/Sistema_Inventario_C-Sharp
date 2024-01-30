@@ -1,0 +1,12 @@
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.exe
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.dll
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.deps.json
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.runtimeconfig.json
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.dll.config
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.pdb
+G:\C# Aplicacion\Proyecto finalizados\System.Data.SqlClient.dll
+G:\C# Aplicacion\Proyecto finalizados\runtimes\win-arm64\native\sni.dll
+G:\C# Aplicacion\Proyecto finalizados\runtimes\win-x64\native\sni.dll
+G:\C# Aplicacion\Proyecto finalizados\runtimes\win-x86\native\sni.dll
+G:\C# Aplicacion\Proyecto finalizados\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\C# Aplicacion\Proyecto finalizados\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

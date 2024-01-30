@@ -1,0 +1,8 @@
+C:\Users\Acer\Desktop\Sinvopa\SistemaDeInventantario.exe
+C:\Users\Acer\Desktop\Sinvopa\SistemaDeInventantario.deps.json
+C:\Users\Acer\Desktop\Sinvopa\SistemaDeInventantario.runtimeconfig.json
+C:\Users\Acer\Desktop\Sinvopa\SistemaDeInventantario.dll.config
+C:\Users\Acer\Desktop\Sinvopa\SistemaDeInventantario.pdb
+C:\Users\Acer\Desktop\Sinvopa\sni.dll
+C:\Users\Acer\Desktop\Sinvopa\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Sinvopa\SistemaDeInventantario.dll

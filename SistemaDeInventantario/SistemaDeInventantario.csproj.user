@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ActiveDebugProfile>SistemaDeInventantario</ActiveDebugProfile>
+    <_LastSelectedProfileId>C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Categorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsulEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsulGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Contacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ControUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MateriaPrima\MateriaAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MateriaPrima\MateriaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MateriaPrima\MateriaGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MateriaPrima\MateriaPrima1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Proveedores\EditProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Proveedores\ProveeAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Proveedores\ProveeEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Proveedores\ProveeGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

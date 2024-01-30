@@ -1,0 +1,165 @@
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.exe
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.dll.config
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.deps.json
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.runtimeconfig.json
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.pdb
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.AssemblyReference.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.AddUser.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Categorias.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ConsulEdit.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ConsulGrid.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Contacto.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ControUser.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.DataGrid.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Edit.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ControlAcceso.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Home.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima.MateriaAdd.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima.MateriaEdit.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima.MateriaGrid.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima1.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Properties.Resources.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.EditProveedor.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.ProveeAdd.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.ProveeEdit.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.ProveeGrid.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.GenerateResource.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.AssemblyInfoInputs.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.AssemblyInfo.cs
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.CoreCompileInputs.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.CopyComplete
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\refint\SistemaDeInventantario.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.pdb
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.genruntimeconfig.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\ref\SistemaDeInventantario.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.exe
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.dll.config
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.deps.json
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.runtimeconfig.json
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.pdb
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.AddUser.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Categorias.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ConsulEdit.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ConsulGrid.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Contacto.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ControUser.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.DataGrid.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Edit.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ControlAcceso.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Home.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima.MateriaAdd.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima.MateriaEdit.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima.MateriaGrid.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima1.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Properties.Resources.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.EditProveedor.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.ProveeAdd.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.ProveeEdit.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.ProveeGrid.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.CopyComplete
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\refint\SistemaDeInventantario.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.pdb
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.genruntimeconfig.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\ref\SistemaDeInventantario.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.exe
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.dll.config
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.deps.json
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.runtimeconfig.json
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\SistemaDeInventantario.pdb
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.AddUser.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Categorias.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ConsulEdit.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ConsulGrid.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Contacto.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ControUser.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.DataGrid.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Edit.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.ControlAcceso.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Home.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima.MateriaAdd.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima.MateriaEdit.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima.MateriaGrid.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.MateriaPrima1.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.EditProveedor.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.ProveeAdd.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.ProveeEdit.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.Proveedores.ProveeGrid.resources
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\refint\SistemaDeInventantario.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.pdb
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\SistemaDeInventantario.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\obj\Debug\net6.0-windows\ref\SistemaDeInventantario.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\OneDrive\Escritorio\SistemaDeInventantario\SistemaDeInventantario\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll

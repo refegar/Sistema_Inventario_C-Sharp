@@ -1,0 +1,82 @@
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.exe
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.dll.config
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.deps.json
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.runtimeconfig.json
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.pdb
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\System.Data.SqlClient.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\sni.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.csproj.AssemblyReference.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.AddUser.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Categorias.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.ConsulEdit.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.ConsulGrid.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Contacto.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.ControUser.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.DataGrid.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Edit.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.ControlAcceso.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Home.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.MateriaPrima.MateriaAdd.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.MateriaPrima.MateriaEdit.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.MateriaPrima.MateriaGrid.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.MateriaPrima1.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Properties.Resources.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Proveedores.EditProveedor.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Proveedores.ProveeAdd.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Proveedores.ProveeEdit.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Proveedores.ProveeGrid.resources
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.csproj.GenerateResource.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.AssemblyInfoInputs.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.AssemblyInfo.cs
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.csproj.CoreCompileInputs.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.csproj.CopyComplete
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\refint\SistemaDeInventantario.dll
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.pdb
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.genruntimeconfig.cache
+G:\C# Aplicacion\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\ref\SistemaDeInventantario.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.exe
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.dll.config
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.deps.json
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.runtimeconfig.json
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.pdb
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\sni.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.AddUser.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Categorias.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.ConsulEdit.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.ConsulGrid.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Contacto.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.ControUser.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.DataGrid.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Edit.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.ControlAcceso.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Home.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.MateriaPrima.MateriaAdd.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.MateriaPrima.MateriaEdit.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.MateriaPrima.MateriaGrid.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.MateriaPrima1.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Properties.Resources.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Proveedores.EditProveedor.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Proveedores.ProveeAdd.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Proveedores.ProveeEdit.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.Proveedores.ProveeGrid.resources
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.csproj.CopyComplete
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\refint\SistemaDeInventantario.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.pdb
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.genruntimeconfig.cache
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\ref\SistemaDeInventantario.dll
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.dll.manifest
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\bin\Release\net6.0-windows\win-x86\SistemaDeInventantario.application
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.dll.manifest
+C:\Users\Acer\Desktop\SistemaDeInventantario\SistemaDeInventantario\obj\Release\net6.0-windows\win-x86\SistemaDeInventantario.application

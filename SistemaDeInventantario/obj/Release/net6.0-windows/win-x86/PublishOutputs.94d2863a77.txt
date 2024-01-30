@@ -1,0 +1,8 @@
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.exe
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.deps.json
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.runtimeconfig.json
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.dll.config
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.pdb
+G:\C# Aplicacion\Proyecto finalizados\sni.dll
+G:\C# Aplicacion\Proyecto finalizados\System.Data.SqlClient.dll
+G:\C# Aplicacion\Proyecto finalizados\SistemaDeInventantario.dll

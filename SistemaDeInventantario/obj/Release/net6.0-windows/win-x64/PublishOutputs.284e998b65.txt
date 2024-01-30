@@ -1,0 +1,8 @@
+C:\Users\Acer\OneDrive\Escritorio\Sinvopa\SistemaDeInventantario.exe
+C:\Users\Acer\OneDrive\Escritorio\Sinvopa\SistemaDeInventantario.dll
+C:\Users\Acer\OneDrive\Escritorio\Sinvopa\SistemaDeInventantario.deps.json
+C:\Users\Acer\OneDrive\Escritorio\Sinvopa\SistemaDeInventantario.runtimeconfig.json
+C:\Users\Acer\OneDrive\Escritorio\Sinvopa\SistemaDeInventantario.dll.config
+C:\Users\Acer\OneDrive\Escritorio\Sinvopa\SistemaDeInventantario.pdb
+C:\Users\Acer\OneDrive\Escritorio\Sinvopa\System.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Escritorio\Sinvopa\sni.dll
